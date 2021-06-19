@@ -1,0 +1,21 @@
+Goals:
+Replicate existing hardware closely enough to make software rewrites simple
+Fit board inside pair of cat ears
+Use as assisted hearing device
+Make case
+
+Replace headphone jacks and potentiometer with flying leads
+
+Add speaker amplifier
+One microphone on extension cable, one onboard
+Source parts for prototype
+X	Set up slack
+Pick out battery charger
+Start designing schematic
+
+k66 development kit $30
+BC127 $27
+LMP2232 $1.35
+MKL02Z32VFG4 $2.88
+SPM0687LR5H-1 $1.91
+TLV320AIC3206 $6.80
