@@ -13,7 +13,14 @@ X	Set up slack
 X	Pick out battery charger
 X	Check altium-kicad compatibility -- yes
 Start designing schematic
+Potentiometer combined on/off switch
+interconnect cabling/connector?
 
+f0x schema thoughts:
+- simpler USB-C footprint (12pin)
+
+
+BOM
 MK66FX1M0VMD18	DSP				$30
 BC127		Bluetooth			$27
 LMP2232		Amplifier			$1.35
