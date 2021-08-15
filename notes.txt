@@ -6,16 +6,18 @@ Make case
 
 Replace headphone jacks and potentiometer with flying leads
 
-Add speaker amplifier
-One microphone on extension cable, one onboard
-Source parts for prototype
+X	Add speaker amplifier
+X	One microphone on extension cable, one onboard
+X	Source parts for prototype
 X	Set up slack
-Pick out battery charger
+X	Pick out battery charger
+X	Check altium-kicad compatibility -- yes
 Start designing schematic
 
-k66 development kit $30
-BC127 $27
-LMP2232 $1.35
-MKL02Z32VFG4 $2.88
-SPM0687LR5H-1 $1.91
-TLV320AIC3206 $6.80
+MK66FX1M0VMD18	DSP				$30
+BC127		Bluetooth			$27
+LMP2232		Amplifier			$1.35
+MKL02Z32VFG4	Bootloader		$2.88
+SPM0687LR5H-1	Microphone		$1.91
+TLV320AIC3206	CODEC			$6.80
+BQ25015RHLT	Battery charger	$4.78
